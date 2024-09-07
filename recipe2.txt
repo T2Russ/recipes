@@ -1,2 +1,2 @@
 recipe2.txt
-apple
+apples
